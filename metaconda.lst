@@ -1,4 +1,9 @@
 simple.yaml
+# commented-out.yaml
+# so there can be comments
+
+# and empty line should above should be ignored
+    # and indented comments are ignored too
 missing.yaml
 py375.yaml
 py3913.yaml
