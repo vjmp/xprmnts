@@ -7,5 +7,6 @@ simple.yaml
 missing.yaml
 py375.yaml
 py3913.yaml
-python_robot.yaml
-updated_robot.yaml
+rpaframework_19_4_1.yaml
+rpaframework_20_1_2.yaml
+rpaframework_21_0_0.yaml
