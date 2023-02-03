@@ -7,6 +7,8 @@ simple.yaml
 missing.yaml
 py375.yaml
 py3913.yaml
+rpaframework_15_4_0.yaml
+rpaframework_17_4_0.yaml
 rpaframework_19_4_1.yaml
 rpaframework_20_1_2.yaml
 rpaframework_21_0_0.yaml
